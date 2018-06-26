@@ -1,3 +1,4 @@
+requests
 jupyter
 pandas
 scikit-learn
